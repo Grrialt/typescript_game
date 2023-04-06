@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6b1788d-dd49-4742-a30b-403897bf22f5" name="Changes" comment="JS files">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/coin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/fastplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/slowplayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/objects/snakesegment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/types/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/types/gameobjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/types/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/types/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/console.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/gui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e1d43b64-847c-4b20-ab58-550de94306f0" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O1SmR0g2vyAgxr9tjQgOUJ2T20" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/anastasiagrishina/Documents/GitHub/GitHub-Personal/typescript_game/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b1788d-dd49-4742-a30b-403897bf22f5" name="Changes" comment="" />
+      <created>1680726753297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680726753297</updated>
+      <workItem from="1680726755163" duration="3377000" />
+      <workItem from="1680730145163" duration="11382000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1680727039095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680727039095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Running snake">
+      <created>1680741891634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680741891635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Running snake" />
+    <MESSAGE value="JS files" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS files" />
+  </component>
+</project>
